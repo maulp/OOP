@@ -5,7 +5,7 @@ import java.awt.*;
 public class Starter extends User {
     private JTextField nama, negara;
     private JLabel title, label1, label2;
-    private JButton submit;
+    private JButton submit, submit2;
 
     public static String username;
     public static String country;
